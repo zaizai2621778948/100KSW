@@ -1,0 +1,255 @@
+/*.container{*/
+    /*!*border:2px solid red;*!*/
+/*}*/
+/*.row{*/
+    /*margin-bottom:10px;*/
+    /*!*border:1px solid #111;*!*/
+    /*overflow:hidden;*/
+/*}*/
+/*header .tab-content{*/
+    /*border:1px solid #ddd;*/
+    /*border-top:none;*/
+    /*padding:10px;*/
+    /*height:70px;*/
+/*}*/
+/*!*手机端响应头*!*/
+/*.navbar-static-top{*/
+    /*margin-bottom:0px;*/
+/*}*/
+/*!**!*/
+/*a[data-toggle="dropdown"]:hover{*/
+    /*cursor:pointer;*/
+/*}*/
+/*@media(min-width:992px){*/
+    /*section .col-md-9,section .col-md-3{*/
+        /*!*height:300px;*!*/
+    /*}*/
+    /*.ks_information{*/
+        /*height:297px;*/
+        /*overflow:hidden;*/
+    /*}*/
+    /*!*考试动态页特有部分*!*/
+    /*.thumbnail{*/
+        /*position:relative;*/
+        /*margin-bottom:0px;*/
+    /*}*/
+
+/*}*/
+
+/*!*对图片logo进行设置*!*/
+/*header .col-md-1{*/
+    /*padding-right:0px;*/
+/*}*/
+/*section .tab-content{*/
+    /*border:1px solid #ddd;*/
+    /*height:340px;*/
+    /*border-top:none;*/
+/*}*/
+/*body {*/
+    /*font-family: "SimHei", "SimSun", Arial, sans-serif;*/
+    /*!*background-color:#f4f9ff;*!*/
+/*}*/
+/*.panel,.alert,.well,.pagination{*/
+    /*border-radius:0px;*/
+    /*margin:0px;*/
+/*}*/
+/*.margin{*/
+    /*margin-bottom:10px;*/
+/*}*/
+/*.panel-body{*/
+    /*padding:5px;*/
+/*}*/
+/*!*首页中的footer*!*/
+/*#footer{*/
+    /*margin-left:0px;*/
+    /*margin-right: 0px;*/
+    /*border:1px solid #ddd;*/
+    /*padding:5px 0px;*/
+/*}*/
+/*#footer .col-md-1{*/
+    /*padding: 0px;*/
+    /*text-align:center;*/
+/*}*/
+/*footer ul.list-unstyled{*/
+    /*margin-bottom: 0px;*/
+/*}*/
+/*.text-left li{*/
+    /*width:100%;*/
+    /*height:2em;*/
+    /*overflow: hidden;*/
+    /*line-height:2em;*/
+/*}*/
+/*.list-group li{*/
+    /*width:100%;*/
+    /*height:2.5em;*/
+    /*overflow: hidden;*/
+/*}*/
+/*!*面包屑导航*!*/
+/*.breadcrumb{*/
+    /*margin-bottom:0px;*/
+/*}*/
+/*!*网页中右半部分标签页*!*/
+/*.right_tab{*/
+    /*height:290px;*/
+    /*padding:5px*/
+/*}*/
+
+/*!*对广告轮播中遮罩层的设置*!*/
+/*.half-mask {*/
+    /*background-color: rgba(0, 0, 0, 0.7);*/
+    /*height: 100%;*/
+    /*width:100%;*/
+    /*position: absolute;*/
+    /*top: 73%;*/
+    /*padding: 15px;*/
+    /*color:#fff;*/
+/*}*/
+/*.half-mask h3{*/
+    /*margin:6px 0;*/
+/*}*/
+/*.half-mask:hover {*/
+    /*top:0;*/
+    /*transition: top 200ms;*/
+/*}*/
+/*.update_table>tbody>tr>td{*/
+    /*border-top:none;*/
+/*}*/
+/*.update_table>tbody>tr>td:first-child{*/
+    /*width:95%;*/
+/*}*/
+/*!*表格更新信息*!*/
+/*.update_information{*/
+    /*background:#fff;*/
+    /*padding:0px;*/
+/*}*/
+
+.container{
+    /*border:2px solid red;*/
+}
+.row{
+    margin-bottom:10px;
+    /*border:1px solid #111;*/
+    overflow:hidden;
+}
+header .tab-content{
+    border:1px solid #ddd;
+    border-top:none;
+    padding:10px;
+    height:70px;
+}
+/*手机端响应头*/
+.navbar-static-top{
+    margin-bottom:0px;
+}
+/**/
+a[data-toggle="dropdown"]:hover{
+    cursor:pointer;
+}
+@media(min-width:992px){
+    section .col-md-9,section .col-md-3{
+        /*height:300px;*/
+    }
+    .ks_information{
+        height:297px;
+        overflow:hidden;
+    }
+    /*考试动态页特有部分*/
+    .thumbnail{
+        position:relative;
+        margin-bottom:0px;
+    }
+
+}
+
+/*对图片logo进行设置*/
+header .col-md-1{
+    padding-right:0px;
+}
+section .tab-content{
+    border:1px solid #ddd;
+    height:340px;
+    border-top:none;
+}
+body {
+    font-family: "SimHei", "SimSun", Arial, sans-serif;
+    /*background-color:#f4f9ff;*/
+}
+.panel,.alert,.well,.pagination{
+    border-radius:0px;
+    margin:0px;
+}
+.margin{
+    margin-bottom:10px;
+}
+.panel-body{
+    padding:5px;
+}
+/*网页中右半部分标签页*/
+.right_tab{
+    height:290px;
+    padding:5px
+}
+/*首页中的footer*/
+#footer{
+    margin-left:0px;
+    margin-right: 0px;
+    border:1px solid #ddd;
+    padding:5px 0px;
+}
+#footer .col-md-1{
+    padding: 0px;
+    text-align:center;
+}
+footer ul.list-unstyled{
+    margin-bottom: 0px;
+}
+.text-left li{
+    width:100%;
+    height:2em;
+    overflow: hidden;
+    line-height:2em;
+}
+.list-group li{
+    width:100%;
+    height:2.5em;
+    overflow: hidden;
+}
+/*面包屑导航*/
+.breadcrumb{
+    margin-bottom:0px;
+}
+
+/*考试动态页特有部分*/
+.thumbnail{
+    position:relative;
+    /*margin-bottom:0px;*/
+}
+/*对广告轮播中遮罩层的设置*/
+.half-mask {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width:100%;
+    position: absolute;
+    top: 73%;
+    padding: 15px;
+    color:#fff;
+}
+.half-mask h3{
+    margin:6px 0;
+}
+.half-mask:hover {
+    top:0;
+    transition: top 200ms;
+}
+.update_table>tbody>tr>td{
+    border-top:none;
+}
+.update_table>tbody>tr>td:first-child{
+    width:95%;
+}
+/*表格更新信息*/
+.update_information{
+    background:#fff;
+    padding:0px;
+}
+
